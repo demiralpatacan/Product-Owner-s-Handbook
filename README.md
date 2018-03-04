@@ -12,11 +12,11 @@ I needed a guidance to keep my knowledge in my head and take a quick look at to 
 
 ## References
 
-http://www.scrumguides.org/scrum-guide.html
-http://www.romanpichler.com/blog/
-https://www.scrum.as/docs/International%20Agile%20Product%20Owner%20Foundation%20-%20Study%20guide.pdf
-https://www.scrumalliance.org/community/articles/2014/december/order-your-product-backlog
-https://www.scrum.org/resources/blog/tips-starting-product-owners
+- http://www.scrumguides.org/scrum-guide.html
+- http://www.romanpichler.com/blog/
+- https://www.scrum.as/docs/International%20Agile%20Product%20Owner%20Foundation%20-%20Study%20guide.pdf
+- https://www.scrumalliance.org/community/articles/2014/december/order-your-product-backlog
+- https://www.scrum.org/resources/blog/tips-starting-product-owners
 
 
 ## Contents
