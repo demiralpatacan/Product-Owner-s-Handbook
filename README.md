@@ -4,7 +4,7 @@
 February 2018
 Author: Atacan Demiralp
 
-##Why I Wrote This Document
+##Why I Wrote This Document##
 I needed a guidance to keep my knowledge in my head and take a quick look at to remember the role of Product Owner in Scrum. Also it was a good practice to read documents and blog posts of Product Owners in the Internet, bring them together, combine with my base knowledge and experience, and write my own brief summaries for various subjects. After I completed the document, I felt that I have learnt more and I should keep modifying this document because I  will keep learning too.
 
 ##References
