@@ -99,6 +99,7 @@ The product roadmap is steps needed to make the cheapest flights and meet the re
 The vision identifies a future state for the product when the product reaches completion. The vision focuses on the conditions that should exist when the product is complete. The board can be extended by adding columns, such as Market Opportunities, Competitors, Go-To-Market and etc.
 
 Product vision specifies the What and Why of the product, while product strategy elaborates how to realize the vision with a specific approach, and provides a roadmap showing a timeline for executing the strategy.
+
 **Example:**
 - The Product Vision: To sell high quality natural and fresh daily milk
 - The Main Goal: Become the highest chosen brand among the competitors in a year
@@ -111,7 +112,7 @@ Goals should be measurable, time-bound objectives, such as “Increase revenue b
 Product Vision Board explains the vision, goals and the product strategy.
 
 
-###### 2.3. Validate Product Vision Board
+#### 2.3. Validate Product Vision Board
 
 After the product vision board is determined, Product Owner validates it by asking the following questions:
 1. Is this vision clear, focused, and  written for an internal audience?
@@ -122,22 +123,23 @@ After the product vision board is determined, Product Owner validates it by aski
 These yes-no questions help Product Owner to validate whether the product vision is well-decided.
 
 
-###### 2.4. Review Product Vision Board
+#### 2.4. Review Product Vision Board
 
 Product Owner, first collaborates with the stakeholders and the Scrum Team, then review and revise the product vision board until everybody fully understands it. Product Owner makes sure that everybody has a copy of the Product Vision document and most of the boards and charts, such as the Product Vision Board, are physical and visible for everybody in any time.
 
 
 ## Step 3. Know The Stakeholders
 
-###### 3.1. Create Stakeholders Map
+#### 3.1. Create Stakeholders Map
 
 Product Owner is the one who represents the stakeholders in the Scrum Team. He/she should understand and manage his/her stakeholders. Product Owner should involve the right stakeholders to maximize value delivered to the customers, because the decision on the product vision, roadmap and value of the product are confirmed together. To gain insight of stakeholders, Product Owner may use a “stakeholder map”. It is good practice saying how to engage with them. According to their interest and power, Product Owner may decide which stakeholder needs more care and engagement. Maybe sponsor is more important than customer, maybe investor opinions should be taken care first. The communication method may change according the power of the stakeholder.
+
 ![stakeholders map](src/stakeholders_map.jpg)
 
 
 ## Step 4. Confirm Your Power
 
-###### 4.1. Create Delegation Board
+####4.1. Create Delegation Board
 
 Product Owner makes his/her mandate clear by involving stakeholders. He/she defines his responsibilities and gets confirmation of stakeholders. This is important to decide it in very early stage to prevent possible communication deficiencies and arguments in the future. By using Delegation Poker, it is easy to decide who is responsible for what in what level, also beneficial to encourage employee engagement through controlled self-organization. To learn more about Delegation Poker: https://management30.com/product/delegation-poker/
 
@@ -147,6 +149,7 @@ Product Owner decides the responsibilities with the stakeholders together. There
 - Who is needed to add, define, change or remove items from the Product roadmap?
 - Who is needed to add, define, change or remove items from the Product Backlog?
 - Who is needed to add, change or remove people from the Scrum Team?
+
 ![delegation board](src/delegation_board.jpg)
 
 
@@ -158,6 +161,7 @@ The definition of the product value depends on the the product. Products have di
 - What is valuable for the development process?
 
 After answering these questions, Product Owner can come up with how to measure the value of the product. The value may change over time since the technology, market and customer behavior may change.
+
 **Example Values:**
 - Functionality:
 	- A photo editor mobile application that offers Adobe Photoshop functionalities.
@@ -172,6 +176,7 @@ After answering these questions, Product Owner can come up with how to measure t
 The product roadmap displays a story of how the product grows. It contains releases built on the previous builds. The product roadmap must include time bounded releases. Going agile does not mean that you do not need specific deadlines. This is a mistake done by many agile teams even in very huge companies. The deadlines are “must”. The release dates Product owner has to have product roadmaps with release dates. This roadmap will talk to development, marketing, sales, and other groups to carry the product to the success.
 
 Product Owner keeps the roadmap simple and easy to understand. He/she focuses on the goals. 
+
 ![product roadmap](src/product_roadmap.png)
 
 The release dates/timeframes are estimated according to the past projects/products and their accuracy If the organization uses agile for first time, it is not possible to foresee the releases dates since the agile is based on empiricism. In this case, release timeframes can be determined as 3 months at most. It is better to release more often because every releases returns a real feedback. Product Owner makes the roadmap goal oriented and measurable.
@@ -181,15 +186,17 @@ The release dates/timeframes are estimated according to the past projects/produc
 
 Story Map is similar to Product Roadmap. Product Owner may use either one of them or both. It includes not only the features but also the epics and user stories. So, user stories and epics can be written by anybody, but the confirmation belongs to the Product Owner. By arranging a Story Writing workshop, user stories and epics are created by the Scrum Team and the stakeholders (if needed). 
 
-###### 7.1. Create User Stories
+#### 7.1. Create User Stories
 
 User story is the small unit of work agreed by the stakeholders and the Product Owner. They are written in the form of “As [persona], I’d like to [do something], so I can [do something]”. 
+
 **Example:**
 - As a customer, I’d like to reset my password, so I can log in the system.
 
-###### 7.2. Create Epics
+#### 7.2. Create Epics
 
 Epics are nothing but bigger user stories. Some user stories may have dependencies on other user stories to be completed. The business value of some stories cannot be realized until the entire big story is complete. This kind of big stories are called epics. 
+
 **Example:**
 - As a customer, I’d like to create an account, so I can use the system.
 
@@ -201,16 +208,20 @@ The previous user story is related with this user story, because in order to res
 Product Owner writes the release goals, release features, epics, and user stories on sticky notes. Then places them into the right places on the Story Map. It is similar to the Product Roadmap. The purpose is to see release goals, features, and what to do to achieve the features done.
 
 A sample of Story Map of one release:
+
 ![story map](src/story_map.jpg)
 
 A sample of Story Map of all releases in the Product Roadmap:
+
 ![story map 2](src/story_map2.jpg)
 
 
 ## Step 8. Create Release Plan
 
 Release Plan is very similar to the Product Roadmap and Story Map. The difference is it simply shows which release contains which user stories and how much time.
+
 **Example:**
+
 ![release plan](src/release_plan.png)
 
 
@@ -220,13 +231,14 @@ Product Backlog is an ordered list of user stories, and epics to be needed to de
 
 Product Backlog is dynamic and never complete. As the product needs change to be more competitive and useful, the product backlog changes too. As long as the product exists, the product backlog also exists. As the product returns feedback, new requirements or updates are added into the Product Backlog. It contains all features, requirements, updates, and fixes for the future releases. Product Backlog items have the attributes of a story, priority, estimate, and “Done”.
 
-###### 9.1. Before Developing Product Backlog
+#### 9.1. Before Developing Product Backlog
 
 For the sprint planning meeting, the product backlog items should be prepared. To prepare them, Product Owner may perform as User Researcher to collect data. Brief summaries about the user research take places under Product Design label in my blog (https://www.atacann.com/blog/category/Product%20Design) User research gives Product Owner insights of product users. If the organization has a full time user researcher, Product Owner may ask him/her to perform a user research to see what the customer really want or need. Product Owner should derive the product backlog items from the product roadmap/story map by combining the outcome of the user research.
 
-###### 9.2. Create Product Backlog
+#### 9.2. Create Product Backlog
 
 Product Owner lists the Product Backlog items. Higher ordered items are usually clearer and more detailed than lower ordered ones.
+
 ![backlog priority](src/backlog_priority.png)
 
 The items can be prioritized either as high, medium and low importance, or as must-have, should-have, and could-have (also won’t have) tags. Must-haves defines the minimum viable feature set. This method is called MoSCoW method. 
@@ -245,6 +257,7 @@ If Product Owner thinks that multiple items have the same value, he/she consider
 According to Pareto Principle, 80% of the effects come from %20 of the causes. In this case, Product Owner knows that 80% of value will be delivered by 20% of the product. The stories  that probably deliver the highest value are more significant than other stories.
 
 **Note:** The example Product Backlog below contains imagined assumptions.
+
 ![product backlog](src/product_backlog.png)
 
 In the Sprint Planning meeting, the estimate columns will be filled and the order of backlog items will be updated if needed. Done section of a story will be labeled as Done if and only if the item fits the Definition of Done.
@@ -253,11 +266,12 @@ In the Sprint Planning meeting, the estimate columns will be filled and the orde
 ## 9.3. Acceptance Criteria
 
 Product Backlog items needs an Acceptance Criteria which provides clarity to the Scrum Team on what is expected of a User Story and remove ambiguity from requirements. Product Owner defines the Acceptance Criteria. INVEST system can be used for this criteria.
+
 ![acceptance criteria](src/acceptance_criteria.png)
 
 ## Step 10. Sprint Planning
 
-###### 10.1. Sprint Characteristic
+#### 10.1. Sprint Characteristic
 Time boxed event which lasts 2 - 4 weeks, where usable, potentially releasable and “Done” product increment is created.
 The focus is to meet the Sprint Goal.
 
@@ -267,10 +281,11 @@ Sprints enable predictability by ensuring inspection and adaptation of progress 
 Product Owner can cancel the Sprint before the time box is over if the Sprint Goal becomes obsolete. When a sprint is cancelled, any completed and "Done" Product Backlog items are reviewed. Product Owner checks if part of the work is potentially releasable. Incomplete items are re-estimated and put back on the Product Backlog.
 Product Owner knows that sprint cancellation wastes resources, because a new sprint should be designed again.
 
-###### 10.2. Sprint Planning Meeting
+#### 10.2. Sprint Planning Meeting
 In 8 hour-meeting (for one month sprint), Scrum Team negotiates and plans the works to be done in the sprint. Main questions to be asked:
 1. What can be delivered in the Increment resulting from the upcoming Sprint?
 2. How will the work needed to deliver the Increment be achieved?
+
 ![sprint planning](src/sprint_planning.png)
 
 Scrum Team collaborates on understanding the work to meet the sprint goal. The input to this meeting is the Product Backlog which is prepared by Product Owner, the latest product increment, projected capacity of the Development Team and past performance of Development Team. In the first of the meeting, the items of the Product Backlog are estimated by Development Team. To achieve this, Product Owner may suggest to play Planning Poker.
@@ -278,9 +293,11 @@ Scrum Team collaborates on understanding the work to meet the sprint goal. The i
 First, Product Owner reads an Product Backlog item. Then, asks the Development team how much time it takes. Development Team is the estimator. Estimators discuss the item,  When the discussion is over, all the estimators shows their Planning Poker cards. The cards have the Fibonacci numbers (1, 2, 3, 5, 8, 13, 20) on it, representing the number of story points, not hours or days. Each estimator has only one card and all estimators reveal their cards at the same time. Estimators observes all the cards and see the estimates. If all the cards don’t have the same number, a new discussion is made over again. The game is repeated until all the cards have the same number for a backlog item. After Product Backlog is filled with estimations, the first part of the meeting ends.
 
 In the second part of the meeting, Development Team picks items from the Product Backlog into Sprint Backlog. Sprint Backlog contains selected product backlog items and the plan for delivering them. Development Team decides how many story points they can take into the Sprint Backlog. They separates the chosen items into smaller tasks. Sprint Backlog includes sections, such as “To-Do”, “In Progress”, “In QA” and “Done”.
+
 ![sprint backlog](src/sprint_backlog.png)
 
 Development Team picks the items from the Product Backlog according to their story point capacity in a sprint. They convert the Product Backlog items to Spring Backlog items. Development Team is responsible for specifying the tasks, moving the tasks from a cell to another cell, performing the development, updating the Spring Backlog, monitoring the progress, and noting the impediments for Scrum Master. By deciding the sprint backlog, the sprint goal is also decided.
+
 **Example:**
 - Chosen Backlog Item: As a user, I’d like to create an account and login the system.
 - Sprint Goal: Implement account creation functions for the system.
@@ -298,13 +315,16 @@ Development Team picks the items from the Product Backlog according to their sto
 Definition of Done is defined by Development Team, because they are the ones who will create the Increment. Scrum Master and Product Owner confirm the definition. If there are multiple Development Teams working on a product, they must have a common Definition of Done.
 
 Here an extended Scrum Board that I made in Photoshop:
+
 ![scrum board](src/scrum_board.jpg)
 
 
 ## Step 11. Monitoring The Progress
 Once the Sprint has begun, Development Team and Product Owner are responsible for tracking the progress by Burn-down charts. Development Team is self-organized and responsible for managing their work. Therefore, monitoring the progress of a sprint belongs to the Development Team. In the big picture, Product Owner monitors how much work is done and how many Product Backlog item marked as Done. Burn-down chart displays the remaining work to do.
+
 **Example:**
 Development Team picks 60 points of story for a 2-week (72 hour) sprint. A sample of burn-down chart of Sprint Backlog:
+
 ![burndown chart](src/burndownchart.jpg)
 
 Velocity is the total story points done in a sprint. Velocity is calculated after a sprint is done. In this graph, the velocity might be the measure of previous sprint or the the overall velocity of all previous sprints. Velocity can change 10% up or down in each sprint. We see that the Development Team is used to done 60 points story in more than 80 hours.
@@ -313,7 +333,9 @@ The burn-down line shows how many story points is still remaining to do. In the 
 Product Owner keeps the same graph to see the progress in the product. Instead of hours, the graph has sprints. So, how many story points can be Done in a sprint is seen by the Product Owner.
 
 A sample of burn-down chart of Product Backlog:
+
 ![burndown chart 2](src/burndownchart2.jpg)
+
 Product Owner should track the velocity of the Development Team over the sprints at least least every Sprint Review, because it is important for estimations in Release Plan.
 
 
@@ -342,6 +364,7 @@ Sprint Retrospective meeting is totally different than the Sprint Review meeting
 - What is the plan for implementing improvements.
 
 **Example:**
+
 ![retrospective board](src/retrospective_board.png)
 
 # Technical Debt
