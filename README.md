@@ -21,10 +21,10 @@ https://www.scrum.org/resources/blog/tips-starting-product-owners
 
 ## Contents
 
-### Definition of Product Owner
-### What Product Owner Does
-### Characteristics of Product Owner
-### Duties of Product Owner
+1. Definition of Product Owner [Go to Definition of Product Owner’s](#Definition-of-Product-Owner)
+2. What Product Owner Does
+3. Characteristics of Product Owner
+4. Duties of Product Owner
 	- Step 1. Know Your Scrum Team
 	- Step 2. Create Product Vision Board
 		- 2.1. Product Vision, Strategy and Roadmap
@@ -53,7 +53,7 @@ https://www.scrum.org/resources/blog/tips-starting-product-owners
 	- Step 12. Product Backlog Grooming
 	- Step 13. Sprint Review
 	- Step 14. Sprint Retrospective
-### Technical Debt
+5. Technical Debt
 
 
 
