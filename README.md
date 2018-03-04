@@ -81,7 +81,7 @@ Product Owner needs a Scrum Master who is a guide, a mentor to ensure the Scrum 
 
 ## Step 2. Create Product Vision Board
 
-###### 2.1. Product Vision, Strategy and Roadmap
+###### **2.1. Product Vision, Strategy and Roadmap**
 
 The first stage in Agile Project is defining the product vision. Product Owner might have a product vision of a new product or sub-product. The product vision is the purpose for creating the product in one sentence.
 
