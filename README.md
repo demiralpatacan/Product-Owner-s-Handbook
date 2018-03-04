@@ -21,7 +21,7 @@ https://www.scrum.org/resources/blog/tips-starting-product-owners
 
 ## Contents
 
-1. Definition of Product Owner [Go to Definition of Product Owner’s](#Definition-of-Product-Owner)
+1. [Definition of Product Owner](#Definition-of-Product-Owner)
 2. What Product Owner Does
 3. Characteristics of Product Owner
 4. Duties of Product Owner
@@ -57,7 +57,7 @@ https://www.scrum.org/resources/blog/tips-starting-product-owners
 
 
 
-# Definition of Product Owner
+# Definition of Product Owner #dDefinition-of-Product-Owner
 
 Product Owner is the owner of product(s) who represents the interests and willings of the  stakeholders. 
 
