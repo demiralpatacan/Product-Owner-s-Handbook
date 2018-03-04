@@ -50,7 +50,7 @@ https://www.scrum.org/resources/blog/tips-starting-product-owners
 		- [10.1. Sprint Characteristic](#101-sprint-characteristic)
 		- [10.2. Sprint Planning Meeting](#102-sprint-planning-meeting)
 	- [Step 11. Monitoring The Progress](#step-11-monitoring-the-progress)
-	- [Step 12. Product Backlog Grooming](#step-12-product-backlog-brooming)
+	- [Step 12. Product Backlog Grooming](#step-12-product-backlog-grooming)
 	- [Step 13. Sprint Review](#step-13-sprint-review)
 	- [Step 14. Sprint Retrospective](#step-14-sprint-retrospective)
 5. [Technical Debt](#technical-debt)
@@ -203,7 +203,7 @@ Epics are nothing but bigger user stories. Some user stories may have dependenci
 The previous user story is related with this user story, because in order to reset the password, user first needs to have an account in the system. Therefore these two user stories belong to the same epic, let’s call it “As a customer, I’d like to manage my account”.
 
 
-## 7.3. Product Story Map
+#### 7.3. Product Story Map
 
 Product Owner writes the release goals, release features, epics, and user stories on sticky notes. Then places them into the right places on the Story Map. It is similar to the Product Roadmap. The purpose is to see release goals, features, and what to do to achieve the features done.
 
