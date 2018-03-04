@@ -21,10 +21,10 @@ https://www.scrum.org/resources/blog/tips-starting-product-owners
 
 ## Contents
 
-1. Definition of Product Owner
-2. What Product Owner Does
-3. Characteristics of Product Owner
-4. Duties of Product Owner
+### Definition of Product Owner
+### What Product Owner Does
+### Characteristics of Product Owner
+### Duties of Product Owner
 	- Step 1. Know Your Scrum Team
 	- Step 2. Create Product Vision Board
 		- 2.1. Product Vision, Strategy and Roadmap
@@ -53,7 +53,7 @@ https://www.scrum.org/resources/blog/tips-starting-product-owners
 	- Step 12. Product Backlog Grooming
 	- Step 13. Sprint Review
 	- Step 14. Sprint Retrospective
-5. Technical Debt
+### Technical Debt
 
 
 
@@ -139,7 +139,7 @@ Product Owner is the one who represents the stakeholders in the Scrum Team. He/s
 
 ## Step 4. Confirm Your Power
 
-####4.1. Create Delegation Board
+#### 4.1. Create Delegation Board
 
 Product Owner makes his/her mandate clear by involving stakeholders. He/she defines his responsibilities and gets confirmation of stakeholders. This is important to decide it in very early stage to prevent possible communication deficiencies and arguments in the future. By using Delegation Poker, it is easy to decide who is responsible for what in what level, also beneficial to encourage employee engagement through controlled self-organization. To learn more about Delegation Poker: https://management30.com/product/delegation-poker/
 
@@ -241,9 +241,10 @@ Product Owner lists the Product Backlog items. Higher ordered items are usually 
 
 ![backlog priority](src/backlog_priority.png)
 
-The items can be prioritized either as high, medium and low importance, or as must-have, should-have, and could-have (also won’t have) tags. Must-haves defines the minimum viable feature set. This method is called MoSCoW method. 
+The items can be prioritized either as high, medium and low importance, or as must-have, should-have, and could-have (also won’t have) tags. Must-haves defines the minimum viable feature set. This method is called MoSCoW method.
+
 **Example:**
-Development team estimated and Product Owner has decided to let the next Product Backlog item takes 2 sprints. After 2  sprints, if the all must-haves and should-haves are developed, tested and defined as “Done”, then the team can move on the next backlog item.
+- Development team estimated and Product Owner has decided to let the next Product Backlog item takes 2 sprints. After 2  sprints, if the all must-haves and should-haves are developed, tested and defined as “Done”, then the team can move on the next backlog item.
 
 While ordering the items, Product Owner places the items which has more business value to the top of the Product Backlog. How is that value foreseen?
 - The backlog item may be directly related with ROI.
@@ -323,7 +324,7 @@ Here an extended Scrum Board that I made in Photoshop:
 Once the Sprint has begun, Development Team and Product Owner are responsible for tracking the progress by Burn-down charts. Development Team is self-organized and responsible for managing their work. Therefore, monitoring the progress of a sprint belongs to the Development Team. In the big picture, Product Owner monitors how much work is done and how many Product Backlog item marked as Done. Burn-down chart displays the remaining work to do.
 
 **Example:**
-Development Team picks 60 points of story for a 2-week (72 hour) sprint. A sample of burn-down chart of Sprint Backlog:
+- Development Team picks 60 points of story for a 2-week (72 hour) sprint. A sample of burn-down chart of Sprint Backlog:
 
 ![burndown chart](src/burndownchart.jpg)
 
@@ -382,6 +383,6 @@ Product Owner should know that too many Product Backlog items to be delivered be
 During the Sprint Planning meeting, Product Backlog items are discussed and estimated by Development Team. This estimation includes also any cost and technical debt. Therefore, Development Team should estimate the story points with possible technical debt. Technical debt is responsibility of Development Team. They can prevent from happening technical debt by pair programming, code refactoring, continuous integration, and automated testing.
 
 **Example:**
-Releasing with 2 minor bugs might cause problems over time.
+- Releasing with 2 minor bugs might cause problems over time.
 
 In this case, Definition of Done should be updated and contain “No Bugs” statement. If there is still a potentially releasable increment with bugs, Product Owner knows that the increment does not hit the Definition of Done, meaning that it is actually not a potentially releasable increment. The item remains as it stands in the Product Backlog, Development Team takes “Fix the bugs” task into the following sprint.
