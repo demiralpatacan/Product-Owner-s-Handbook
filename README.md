@@ -57,7 +57,7 @@ https://www.scrum.org/resources/blog/tips-starting-product-owners
 
 
 
-# Definition of Product Owner #dDefinition-of-Product-Owner
+# Definition of Product Owner
 
 Product Owner is the owner of product(s) who represents the interests and willings of the  stakeholders. 
 
