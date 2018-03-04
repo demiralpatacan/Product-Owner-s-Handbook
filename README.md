@@ -27,7 +27,7 @@ https://www.scrum.org/resources/blog/tips-starting-product-owners
 4. [Duties of Product Owner](#duties-of-product-owner)
 	- [Step 1. Know Your Scrum Team](#step-1-know-your-scrum-team)
 	- [Step 2. Create Product Vision Board](#step-2-create-product-vision-board)
-		- [2.1. Product Vision, Strategy and Roadmap](#21-product-vision,-strategy-and-roadmap)
+		- [2.1. Product Vision, Strategy and Roadmap](#21-product-vision-strategy-and-roadmap)
 		- [2.2. Create Product Vision and Strategy](#22-create-product-vision-and-strategy)
 		- [2.3. Validate Product Vision Board](#23-validate-product-vision-board)
 		- [2.4. Review Product Vision Board](#24-review-product-vision-board)
