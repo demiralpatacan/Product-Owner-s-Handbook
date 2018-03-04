@@ -92,14 +92,13 @@ The product strategy might be to supply the cheapest airplanes, fuel, maintenanc
 The product roadmap is steps needed to make the cheapest flights and meet the requirements of the product strategy. Product Owner absolutely owns this.
 
 
-###### 2.2. Create Product Vision and Strategy
+#### 2.2. Create Product Vision and Strategy
 
 ![product vision board](src/product_vision_board.png)
 
 The vision identifies a future state for the product when the product reaches completion. The vision focuses on the conditions that should exist when the product is complete. The board can be extended by adding columns, such as Market Opportunities, Competitors, Go-To-Market and etc.
 
 Product vision specifies the What and Why of the product, while product strategy elaborates how to realize the vision with a specific approach, and provides a roadmap showing a timeline for executing the strategy.
-
 **Example:**
 - The Product Vision: To sell high quality natural and fresh daily milk
 - The Main Goal: Become the highest chosen brand among the competitors in a year
